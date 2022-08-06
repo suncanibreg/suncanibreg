@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suncanibreg, my real name is  Milan Stojanovic / Милан Стојановић.
 - 👀 I’m interested in learning JavaScript..
-- 🌱 I have posted my Web Sites (Design parts) as:
+- 🌱 I have created my Web Sites (Design parts) as:
 
 1 Complete Websites
 
