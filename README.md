@@ -6,21 +6,22 @@
 - I have done in CSS (with small Javascript Code) example for Web Page:
 
 A) Home Page for eCommerce site showing:
- 1. the responsiveness for various devices screens sizes
- 2. precisely placing cards (with images, icons, text)
- 3. placing banners 
- 4. creating navigation bar
- 5. creating links on the bottom of page
- 6. positioning icons for links
- 7. creating/positioning email/text input boxes 
+ 1. the responsiveness for various sizes of devices screens
+ 2. positioning/designing cards (with image, icon and text)
+ 3. positioning banners 
+ 4. positioning/designing navigation bar
+ 5. positioning links on page
+ 6. positioning icons on page
+ 7. positioning input field  to input email
+ 8. positioning input field to input text
   
 B) Also, created in HTML, CSS and JavaScript example for parts of webpage: 
  1. Designed small image gallery (with javascript changing Big-active Picture)
- 2. Created and designed  Navigation bar (CSS)
- 3. Created and designed Cards for images-links (CSS)
- 4. Created and designed Sticky Navigation bar (CSS, JavaScript)
- 6. Created and designed button for Scrol to page top (CSS, Javascript)  
- 7. Created and designed checkbox, radio box, text input box (CSS)
+ 2. positioned and designed  Navigation bar (CSS)
+ 3. positioned and designed Cards with images-links (CSS)
+ 4. positioned and designed Sticky Navigation bar (CSS, JavaScript)
+ 6. positioned and designed button for Scrol to page top (CSS, Javascript)  
+ 7. positioned and designed checkbox, radio button, text input field (HTML,CSS)
  
 
 
