@@ -1,9 +1,24 @@
-- Hi, Iam @suncanibreg, my name is  Milan Stojanovic.
-- I make various examples of Web pages, various designed.
-- It is all  front end, so design, without databases. 
-- I’m working it in CSS with Flexbox and litle of Javascript.
 
-- I have done in CSS (with small Javascript Code) example for Web Page:
+
+
+Welcome gentlements and ladies,
+
+I am Front End Web Developer - Milan Stojanovic/ Милан Стојановић, form Europian/Balkan country Serbia, city of Nish. I work in JavaScript, CSS, HTML, Git and Github.com, GitLab, Onrender.com (for presenting Website (Hosting)). Am learning basics of Sass, React. Also, I have in Practice learning/project plan Typescript, Scrum, Agile, Redux, Rest, Nuxt, Next.js, tailwind, Sanity, solidity Web3...
+
+Earlier worked as a Translator/Interpreter for English/French/Serbian/Russian languages. Recommendations Available Upon Request (German, Greek-Russian, Serbian Software company and import-export company (also, administrative, finance/banking commerce duties))
+
+******** Food-shop-example*******
+
+Online ecommerce site for food-2.nd
+
+Its a complete ecommerce website-online shop. For the Front end Web Developer need.
+
+Enjoy - it is for presenting my skills. In the plan is to show divers Components of Website (Front end). Every Website Component: Home, Various Forms, Image Galleries, Mega menu, Grid, Flexbox, Linear Gradients, Radial Gradients, Shadows, Product Cards and e-Shop Carts, will be Independent Repository. Also, I will make a Portfolio Site With Biography. One Repository will be for React Skills Presenting. I plan to Learn and Apply/present, hence, REACT, Sass (though I worked some simplier website with it.). TypeScript, Git, Scrum, Agile, Redux, tailwind... A Various combination of Programs/tools/languages, I will include in that Presenting Projects.
+
+
+
+
+Some components/Web Pages, I made and that I posted/or not posted yet, here:
 
 A) Home Page for eCommerce site showing:
  1. the responsiveness for various sizes of devices screens
@@ -22,6 +37,17 @@ B) Also, created in HTML, CSS and JavaScript example for parts of webpage:
  4. positioned and designed Sticky Navigation bar (CSS, JavaScript)
  6. positioned and designed button for Scrol to page top (CSS, Javascript)  
  7. positioned and designed checkbox, radio button, text input field (HTML,CSS)
+  
+
+Thats it folks, for now.
+
+God bless you all.
+
+
+
+Yours Cordially
+
+Milan, Serbia
  
 
 
