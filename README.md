@@ -1,7 +1,7 @@
 
 
 
-Welcome gentlemen and ladies,
+Welcome ladies and gentlemen.
 
 I am Front End Web Developer - Milan Stojanovic/ Милан Стојановић, form Europian/Balkan country Serbia, city of Nish. I work in JavaScript, CSS, HTML, Git and Github.com, GitLab, Onrender.com (for presenting Website (Hosting)). Am learning basics of Sass, React. Also, I have in Practice learning/project plan Typescript, Scrum, Agile, Redux, Rest, Nuxt, Next.js, tailwind, Sanity, solidity Web3...
 
