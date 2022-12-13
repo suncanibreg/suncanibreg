@@ -36,7 +36,7 @@ B) Also, created in HTML, CSS and JavaScript example for parts of webpage:
  7. positioned and designed checkbox, radio button, text input field (HTML,CSS)
   
 
-Thats it folks, for now.
+That's it folks, for now.
 
 God bless you all.
 
