@@ -1,9 +1,9 @@
 
 
 
-Welcome ladies and gentlemen.
+Welcome dear visitors,
 
-I am Front End Web Developer(which is designer side) - Milan. I work in CSS, HTML, JavaScript, Git and Github.com, Onrender.com (Website). 
+I am Front End Web enthousiast (which is designer side) - Milan. I work in CSS, HTML, JavaScript, Git and Github.com, infinityfree.net, glitch.com, Onrender.com (Website). 
 
 
 ******** Food-shop-example*******
@@ -44,7 +44,7 @@ God bless you all.
 
 Yours Cordially,
 
-Milan, Serbia
+Milan
  
 
 
