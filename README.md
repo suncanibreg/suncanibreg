@@ -3,19 +3,12 @@
 
 Welcome dear visitors,
 
-I am Front End Web enthousiast (which is designer side) - Milan. I work in CSS, HTML, JavaScript, Git and Github.com, infinityfree.net, glitch.com, Onrender.com (Website). 
+I am Millan Stoyanovic Front End Web creator with a lot of positive energy. (For those who don't know it's close to designer side). I work in CSS, HTML, JavaScript, Git and Github.com, infinityfree.net, glitch.com, Onrender.com (Website), Wordpress.com. 
 
 
-******** Food-shop-example*******
+Having done many website/web page components creations, I present my skills. Enjoy - all these serve to present my skills. I will also make additionnal effort to  show different Website angle of watching (Front end i.e. the Design aspect). The most interesting Web Components: Home, Forms, Image Galleries, Menus, Grid, Flexbox, Linear Gradients, Radial Gradients, Shadows, Product Cards, will be Independent Repository. Also, I will make a Portfolio Site in net and wider sense.
 
-Online ecommerce site for food-2.nd
-
-It's a front end/software design side of eCommerce site.
-
-Enjoy - it is for presenting my skills. In the plan is to show various Components of Website (Front end i.e. the Design aspect). THe most interesting Web Components: Home, Forms, Image Galleries, Menus, Grid, Flexbox, Linear Gradients, Radial Gradients, Shadows, Product Cards, will be Independent Repository. Also, I will make a Portfolio Site.
-
-
-Some components/Web Pages, I made and that I posted/or not posted yet, here:
+Some components/Web Pages, I made and that I posted/not posted yet:
 
 A) Home Page for eCommerce site showing:
  1. the responsiveness for various sizes of devices screens
@@ -36,15 +29,17 @@ B) Also, created in HTML, CSS and JavaScript example for parts of webpage:
  7. positioned and designed checkbox, radio button, text input field (HTML,CSS)
   
 
-That's it folks, for now.
+There will be more, folks.
 
 God bless you all.
+
+IU am reaslly interested to get through in full stack through the time, but for now, my colleagues from various parts of the world or my country 
+Serbia work all what is not frontend & design.
 
 
 
 Yours Cordially,
-
-Milan
+Millan Stoyanovich
  
 
 
