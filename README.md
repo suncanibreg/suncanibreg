@@ -3,7 +3,7 @@
 
 Welcome dear visitors,
 
-I am Millan Stoyanovic Front End Web creator with a lot of positive energy. (For those who don't know it's close to designer side). I work in CSS, HTML, and I am truying JavaScript, React.js, Next.js, Vite.js, Tailwindcss, MUI, Styled, Git and Github.com, Vercel,  infinityfree.net, glitch.com, Onrender.com (Website), Wordpress.com. 
+I am Milan Stojanovic, Front End Web entusiast with a some intresting works. (For those who don't know it's close to designer side). I work in CSS, HTML, and I am truying JavaScript, React.js, Next.js, Vite.js, Tailwindcss, MUI, Styled, Git and Github.com, Vercel,  infinityfree.net, glitch.com, Onrender.com (Website), Wordpress.com. 
 
 Having done many website/web page components creations, I present my skills. Enjoy - all these serve to present my skills. I will also make additionnal effort to  show different Website angle of watching (Front end i.e. the Design aspect). The most interesting Web Components: Home, Forms, Image Galleries, Menus, Grid, Flexbox, Linear Gradients, Radial Gradients, Shadows, Product Cards, wanting to be as some Repository-Library.
 
