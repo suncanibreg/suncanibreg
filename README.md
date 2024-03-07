@@ -3,41 +3,67 @@
 
 Welcome dear visitors,
 
-I am Milan Stojanovic, Front End Web entusiast with a some intresting works. (For those who don't know it's close to designer side). I work in CSS, HTML, and I am truying JavaScript, React.js, Next.js, Vite.js, Tailwindcss, MUI, Styled, Git and Github.com, Vercel,  infinityfree.net, glitch.com, Onrender.com (Website), Wordpress.com. 
+I am Milan Stojanovic, Front End Web entusiast with a some interesting works.
+(For those who don't know it's coding of Designed Web Page Parts (components).
 
-Having done many website/web page components creations, I present my skills. Enjoy - all these serve to present my skills. I will also make additionnal effort to  show different Website angle of watching (Front end i.e. the Design aspect). The most interesting Web Components: Home, Forms, Image Galleries, Menus, Grid, Flexbox, Linear Gradients, Radial Gradients, Shadows, Product Cards, wanting to be as some Repository-Library.
+I present Practical Coding Solutions very often needed:
+ 
+ - Menu and Navigation Bars (Navbars)
+ - Forms,
+ - Image Galleries,
+ - using Grid and Flexbox, media queries for Responsive Web Page
+ - Linear Gradients, Radial Gradients, Shadows,
+ - Image Cards
+ - Input Fields (for input of Emails, Names/Surnames, various Descriptions)
+
+   I want to offer to people usefull components that you can incorporate them in your Web pages
+   Simple, Practical and Small Code.
 
 Some components/Web Pages, I made and that I posted/not posted yet:
 
-A) Home Page for eCommerce site showing:
- 1. the responsiveness for various sizes of devices screens
- 2. positioning/designing cards (with image, icon and text)
- 3. positioning banners 
- 4. positioning/designing navigation bar
- 5. positioning links on page
- 6. positioning icons on page
- 7. positioning input field to input email
- 8. positioning input field to input text
-  
-B) Also, created in HTML, CSS and JavaScript example for parts of webpage: 
- 1. Designed small image gallery (with javascript changing Big-active Picture)
- 2. positioned and designed  Navigation bar (CSS)
- 3. positioned and designed Cards with images-links (CSS)
- 4. positioned and designed Sticky Navigation bar (CSS, JavaScript)
- 6. positioned and designed button for Scrol to page top (CSS, Javascript)  
- 7. positioned and designed checkbox, radio button, text input field (HTML,CSS)
-  
+Components for ecommerce website with technics for:
+ 1. Responsive: for various sizes of devices screens
+ 2. Well and nice positioned and designed Product Cards (with Image, Icon and Text)
+ 3. Nice positioned baners 
+ 4. Practical positioned and designed Navigation Bar
+ 5. Nice designed and positioned Links on Page
+ 6. Well Positioned icons on page.
+ 7. Nice Positioned and designed Input Field tfor input Email
+ 8. Input Field for input text.
+ 9. Some Forms with radio buttons, checkbox, text input field
+    (for which you can do Backend side of the job or Put in More Elements)
 
-There will be more, folks.
+and various coding solutions for:
+ - Menu and Navigation Bars (Navbars)
+ - Forms,
+ - Image Galleries,
+ - using Grid and Flexbox, media queries for Responsive Web Page
+ - Linear Gradients, Radial Gradients, Shadows,
+ - Image Cards
+ - Input Fields (for input of Emails, Names/Surnames, various Descriptions)
+
+
+   
+I build them with simple HTML, CSS.
+
+and some of: 
+Programming language - JavaScript,
+
+and also am experimenting with some of: 
+Repository System for programming projects: Github.com.
+Library for projects: React.js,
+Framework for making projects with React.js: Next.js,
+Tool for making project packet: Vite.js,
+Library for using CSS with React.js: Tailwindcss,
+Library of Icons: MUI (Material U Icons) for using in React.js,
+Library for Creating components of Web Pages in React.js: Styled,
+Version system for programming project: Git
+
+
 
 God bless you.
 
-IU am reaslly interested to get through in full stack through the time, but for now, my colleagues from various parts of the world or my country 
-Serbia work all what is not frontend & design.
-
-
-
-Yours Cordially,
+Best Regards,
 Milan Stojanovic
  
 
